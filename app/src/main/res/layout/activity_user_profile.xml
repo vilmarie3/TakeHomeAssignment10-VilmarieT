@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/coffee_shop"
+    android:orientation="vertical"
+    tools:context="com.example.android.takehomeassignment10_vilmariet.UserProfile">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+    <Button
+        android:id="@+id/capture_art_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_weight = "1"
+        android:text="@string/upload_from_phone"
+        android:background="@color/beige"
+        android:fontFamily="@font/stoke_light"
+        android:padding= "8dp"
+
+        />
+
+    <Button
+        android:id="@+id/upload_art_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_weight = "1"
+        android:text="@string/browse_in_coffee_heaven"
+        android:background="@color/beige"
+        android:fontFamily="@font/stoke_light"
+        android:padding= "8dp"
+
+        />
+    </LinearLayout>
+
+
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "400902124731",
+    "firebase_url": "https://takehomeassignment10-vilmarie.firebaseio.com",
+    "project_id": "takehomeassignment10-vilmarie",
+    "storage_bucket": "takehomeassignment10-vilmarie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400902124731:android:45abe7f173254d1f",
+        "android_client_info": {
+          "package_name": "com.example.android.takehomeassignment10_vilmariet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400902124731-t19cg7mdrenf2qgje15eigldn618m2cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.takehomeassignment10_vilmariet",
+            "certificate_hash": "361f16c72da556daa0f13f91a60741ca26d1f95b"
+          }
+        },
+        {
+          "client_id": "400902124731-0je95p6thot9otee64ch10u93q1812nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1yr1uBJULMoCC2FLm8T5jrUrK8EFuESo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400902124731-0je95p6thot9otee64ch10u93q1812nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment10-VilmarieT</string>
+    <string name="coffee_heaven">Coffee Heaven</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_email">    Enter Email</string>
+    <string name="enter_password">    Enter Password</string>
+    <string name="loading" />
+    <string name="submit">Submit</string>
+    <string name="new_customer">New Customer?</string>
+    <string name="create_account">Create Account</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="verify_email">Verify email</string>
+    <string name="capture_your_latte_art">Capture your latte art</string>
+    <string name="upload_latte_art">Upload latte art</string>
+    <string name="upload_from_phone">Upload from Phone</string>
+    <string name="browse_in_coffee_heaven">Browse in Coffee Heaven</string>
+    <string name="welcome">Welcome</string>
+
+
+</resources>
